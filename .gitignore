@@ -1,3 +1,6 @@
 pdfs/
+data/
 *.pdf
+*.xlsx
+*.csv
 

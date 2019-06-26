@@ -19,3 +19,5 @@ for file in files:
 
 dfs = pd.concat(dfs)
 print(dfs.head())
+
+dfs.to_excel('data/output.xlsx')
